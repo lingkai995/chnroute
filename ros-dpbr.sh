@@ -11,7 +11,7 @@ echo "/ip firewall address-list"
 for net in $(cat CN.txt) ; do
   echo "add list=CN address=$net comment=AS4809"
 done
-
+echo "add list=CN address=plex.tv comment=plex"
 } > ../CN.rsc
 
 cd ..
