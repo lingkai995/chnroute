@@ -3513,3 +3513,4 @@ add list=CN address=223.248.0.0/14 comment=AS4809
 add list=CN address=223.252.192.0/19 comment=AS4809
 add list=CN address=223.255.236.0/22 comment=AS4809
 add list=CN address=223.255.252.0/23 comment=AS4809
+add list=CN address=plex.tv comment=plex
