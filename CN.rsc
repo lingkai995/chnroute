@@ -3336,6 +3336,7 @@ add list=CN address=210.75.96.0/19 comment=AS4809
 add list=CN address=210.75.192.0/18 comment=AS4809
 add list=CN address=210.76.0.0/18 comment=AS4809
 add list=CN address=210.76.64.0/19 comment=AS4809
+add list=CN address=210.76.160.0/19 comment=AS4809
 add list=CN address=210.76.192.0/19 comment=AS4809
 add list=CN address=210.77.0.0/18 comment=AS4809
 add list=CN address=210.77.64.0/19 comment=AS4809
