@@ -1994,7 +1994,10 @@ add list=CN address=118.192.70.0/24 comment=AS4809
 add list=CN address=118.193.96.0/19 comment=AS4809
 add list=CN address=118.194.32.0/19 comment=AS4809
 add list=CN address=118.194.134.0/23 comment=AS4809
-add list=CN address=118.194.240.0/21 comment=AS4809
+add list=CN address=118.194.240.0/24 comment=AS4809
+add list=CN address=118.194.242.0/23 comment=AS4809
+add list=CN address=118.194.244.0/24 comment=AS4809
+add list=CN address=118.194.246.0/23 comment=AS4809
 add list=CN address=118.195.128.0/17 comment=AS4809
 add list=CN address=118.196.0.0/16 comment=AS4809
 add list=CN address=118.197.0.0/18 comment=AS4809
